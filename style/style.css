@@ -120,6 +120,13 @@ main {
     margin-bottom: 128px;
 }
 
+.bg-2{
+    background-color: #0597A026;
+}
+.bg-3{
+    background-color: #477D1126;
+}
+
 /* Support section style */
 .support-section {
     height: 320px;
