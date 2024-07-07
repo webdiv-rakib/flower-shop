@@ -61,3 +61,17 @@ header {
     color: white;
     margin-bottom: 147px;
 }
+
+/* Feature section style */
+main{
+    font-family: "Poppins", sans-serif;
+}
+
+.feature-section-1{
+    text-align: center;
+    margin-top: 178px;
+}
+.feature-title{
+    font-size: 40px;
+    font-weight: 800;
+}
