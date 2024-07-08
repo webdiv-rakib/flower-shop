@@ -174,3 +174,36 @@ main {
     font-size: 18px;
     font-weight: 400;
 }
+
+/* Social section style */
+.social-header{
+    text-align: center;
+    margin-top: 128px;
+}
+
+.social-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.social-description{
+    color: #27272799;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 48px;
+}
+
+.flower-image-1{
+    width: 342px;
+    height: 396px;
+    border: 1px solid gainsboro;
+    border-style: dashed;
+}
+
+.flower-image-section{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
