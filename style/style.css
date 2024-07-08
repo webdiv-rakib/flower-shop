@@ -217,7 +217,7 @@ main {
     margin: 0 auto;
     margin-top: 128px;
     background-image: url("../assets/image/Rectangle\ 9.png");
-    
+
 }
 
 .deal-section {
@@ -228,7 +228,7 @@ main {
     margin-top: 122px;
     text-align: center;
     border-radius: 8px;
-    
+
 }
 
 .deal-title {
@@ -247,7 +247,47 @@ main {
     height: 64px; */
     margin-top: 48px;
     /* border: 2px solid yellow; */
-    padding: 23px 513px 22px 22px ;
+    padding: 23px 513px 22px 22px;
     border-radius: 8px;
     border: none;
+}
+
+/* Footer section style */
+footer {
+    color: white;
+    width: 1922px;
+    height: 449px;
+    border: 2px solid red;
+    margin: 0 auto;
+    margin-top: 128px;
+    background-color: #111010;
+    text-align: center;
+}
+
+.footer-title {
+    margin-top: 128px;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.flower {
+    color: #E55473;
+}
+
+.footer-description {
+    color: #FFFFFFE6;
+    margin-top: 24px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.footer-copyright {
+    margin-top: 32px;
+    color: #FFFFFF66;
+}
+
+.git-hub {
+    color: red;
+    font-size: 40px;
+    font-weight: 800;
 }
