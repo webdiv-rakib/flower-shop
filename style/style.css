@@ -120,10 +120,11 @@ main {
     margin-bottom: 128px;
 }
 
-.bg-2{
+.bg-2 {
     background-color: #0597A026;
 }
-.bg-3{
+
+.bg-3 {
     background-color: #477D1126;
 }
 
@@ -176,34 +177,77 @@ main {
 }
 
 /* Social section style */
-.social-header{
+.social-header {
     text-align: center;
     margin-top: 128px;
 }
 
-.social-title{
+.social-title {
     color: #272727;
     font-size: 40px;
     font-weight: 800;
 }
 
-.social-description{
+.social-description {
     color: #27272799;
     font-size: 18px;
     font-weight: 400;
     margin-bottom: 48px;
 }
 
-.flower-image-1{
+.flower-image-1 {
     width: 342px;
     height: 396px;
     border: 1px solid gainsboro;
     border-style: dashed;
 }
 
-.flower-image-section{
+.flower-image-section {
     display: flex;
     justify-content: center;
     gap: 24px;
 }
 
+/* Deal section style */
+.deal {
+    height: 449px;
+    width: 1440px;
+    border: 2px solid gainsboro;
+    border-style: dashed;
+    margin: 0 auto;
+    margin-top: 128px;
+    background-image: url("../assets/image/Rectangle\ 9.png");
+    
+}
+
+.deal-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* border: 2px solid green; */
+    margin-top: 122px;
+    text-align: center;
+    border-radius: 8px;
+    
+}
+
+.deal-title {
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.deal-description {
+    margin-top: 16px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.input-field {
+    /* width: 700px;
+    height: 64px; */
+    margin-top: 48px;
+    /* border: 2px solid yellow; */
+    padding: 23px 513px 22px 22px ;
+    border-radius: 8px;
+    border: none;
+}
